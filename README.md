@@ -1,1 +1,1 @@
-# O365_GroupReport
+# M365_GroupReport
